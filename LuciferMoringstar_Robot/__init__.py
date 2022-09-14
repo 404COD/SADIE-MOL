@@ -28,13 +28,13 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  SADIE MOL
+➥ Name :  [ꜱᴀᴅɪᴇ ᴍᴏʟ🧚]
     
-➥ Creator : [MUZAFIR](https://t.me/mnzks)
+➥ Creator : [✧ ᴍᴜᴢᴀꜰɪʀ ✧](https://t.me/mnzks)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Owner : [I N B L I Z](https://t.me/inbliz)
+➥ Owner : [ᎥᑎᗷᒪᎥ乙🇮🇳](https://t.me/inbliz)
 """
