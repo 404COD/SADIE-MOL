@@ -23,11 +23,9 @@ HELP = """
 ABOUT = """
 ➥ Name :  ꜱᴀᴅɪᴇ ᴍᴏʟ🧚
     
-➥ Creator : [✧ ᴍᴜᴢᴀꜰɪʀ ✧](https://t.me/mnzks)
+➥ Type : ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ
 
 ➥ Language : 𝙿̷𝚈̷𝚃̷𝙷̷𝙾̷𝙽̷ 𝟹̷
-
-➥ Group : [SR SUGGESTIONS OFFICIAL](https://t.me/srsuggestionsofficial)
 
 ➥ Owner : [ᎥᑎᗷᒪᎥ乙🇮🇳](https://t.me/inbliz)
 """
