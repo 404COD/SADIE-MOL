@@ -11,19 +11,12 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
+[ᎥᑎᗷᒪᎥ乙🇮🇳](https://t.me/inbliz)
 
-/start :- check am Alive
 
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+ഇവിടെ നിന്ന് കറങ്ങി സമയം കളയണ്ട . എന്നെ എൻ്റെ ഗ്രൂപ്പിൽ മാത്രേ ഉപയോഗിക്കാൻ കഴിയൂ .
+
+ᴊᴜꜱᴛ ᴇɴᴛᴇʀᴛᴀɪɴᴍᴇɴᴛ😁
 
 """
 
@@ -32,9 +25,9 @@ ABOUT = """
     
 ➥ Creator : [✧ ᴍᴜᴢᴀꜰɪʀ ✧](https://t.me/mnzks)
 
-➥ Language : Python3
+➥ Language : 𝙿̷𝚈̷𝚃̷𝙷̷𝙾̷𝙽̷ 𝟹̷
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Group : [SR SUGGESTIONS OFFICIAL](https://t.me/srsuggestionsofficial)
 
 ➥ Owner : [ᎥᑎᗷᒪᎥ乙🇮🇳](https://t.me/inbliz)
 """
