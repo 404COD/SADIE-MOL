@@ -28,7 +28,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  [ꜱᴀᴅɪᴇ ᴍᴏʟ🧚]
+➥ Name :  ꜱᴀᴅɪᴇ ᴍᴏʟ🧚
     
 ➥ Creator : [✧ ᴍᴜᴢᴀꜰɪʀ ✧](https://t.me/mnzks)
 
