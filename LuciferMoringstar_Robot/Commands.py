@@ -117,7 +117,7 @@ async def start(bot, message):
                 [[
                 InlineKeyboardButton("🙎 INBLIZ 🙎", url='https://t.me/inbliz')
                 ],[
-                InlineKeyboardButton("Close", callback_data="close"),
+                InlineKeyboardButton("Close", callback_data="closed"),
                 InlineKeyboardButton("About", callback_data="about")
                 ]]
             )
